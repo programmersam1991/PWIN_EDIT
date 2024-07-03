@@ -68,8 +68,7 @@
 <img width="800" alt="1" src="https://github.com/programmersam1991/PWIN_EDIT/assets/89841817/0820a73c-a0e2-4e40-b00e-682c3299dba0"></p>
 
 </details>
-
-
+------
 
 ### Задание 1. Импорт виртуальной машины
 
@@ -164,9 +163,6 @@
 <summary>Пример выполненного задания</summary>
   
 </details>
-
-#### [Шаблон выполнения задания](https://docs.google.com/document/d/1youKpKm_JrC0UzDyUslIZW2E2bIv5OVlm_TQDvH5Pvs/edit)
-
 ------
 
 ### Правила приема работы
